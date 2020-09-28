@@ -6,17 +6,19 @@ import {
   Delete,
   Body,
   Param,
-  HttpStatus,
+  HttpStatus, UseGuards
 } from '@nestjs/common';
 
 import { UsersService } from './Users.service';
 import { UserDTO } from './Users.dto';
+import { JwtAuthGuard } from '../auth/jwt-auth.guard';
 
 @Controller('users')
 export class UsersController {
   constructor (private usersService: UsersService) { }
 
   @Get()
+  @UseGuards(JwtAuthGuard)
   async showAllUsers() {
     return {
       statusCode: HttpStatus.OK,
