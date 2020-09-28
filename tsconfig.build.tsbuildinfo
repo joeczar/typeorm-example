@@ -2822,7 +2822,7 @@
         "affectsGlobalScope": false
       },
       "./src/users/Users.controller.ts": {
-        "version": "fcd2d9ae0941aadbfcfa93911ef8b8e0f263e371cbdfbebc1f348f40ea49681a",
+        "version": "df90faa2f0d1dfb5cc7b6d33cb945ec5e1034bcf9de394ff8647199555ce70ae",
         "signature": "b6e18f51329fd36f1639a0e7746acc23f19b5346a2557038d030d8578a191111",
         "affectsGlobalScope": false
       },
@@ -3641,9 +3641,9 @@
         "signature": "768302ebbbb1a67508debaa3a1f5950989751e6d954e7b560caa8ec5f62e756d",
         "affectsGlobalScope": false
       },
-      "./src/app.module.ts": {
-        "version": "c058a24fdcf47b14250c0883234992a7f3d422e3ac3eade5e94e62fb1b98457c",
-        "signature": "73d0b8a35c3b7bb7eb41a04ea9e462c37e09df63d4abc63ad3663b71ddfd29a9",
+      "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts": {
+        "version": "0c21eb72dd7efa9b8b14f20e2922c30eda75fb38a71870d5959b8277260026f5",
+        "signature": "0c21eb72dd7efa9b8b14f20e2922c30eda75fb38a71870d5959b8277260026f5",
         "affectsGlobalScope": false
       },
       "./node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
@@ -3824,6 +3824,56 @@
       "./node_modules/@nestjs/core/index.d.ts": {
         "version": "7b5ed961a0e03965299591d73de8b8c41e8a68105ff4fc07a240b0dfb94a5a3d",
         "signature": "7b5ed961a0e03965299591d73de8b8c41e8a68105ff4fc07a240b0dfb94a5a3d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts": {
+        "version": "4b9c93a83255d603fa4d857aac95257462cde204c7266b552650a18e700c1d46",
+        "signature": "4b9c93a83255d603fa4d857aac95257462cde204c7266b552650a18e700c1d46",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs/serve-static/dist/loaders/express.loader.d.ts": {
+        "version": "06d8af96b18c5ee90ba066e5d6814a1af3cfa7667986fdecd520599c5b2ed030",
+        "signature": "06d8af96b18c5ee90ba066e5d6814a1af3cfa7667986fdecd520599c5b2ed030",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs/serve-static/dist/loaders/fastify.loader.d.ts": {
+        "version": "2e522780639e1a181adf94d3596a6669570c36fd635563753f05853da790dc46",
+        "signature": "2e522780639e1a181adf94d3596a6669570c36fd635563753f05853da790dc46",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs/serve-static/dist/loaders/noop.loader.d.ts": {
+        "version": "c6e3bad7e7eb479c2b3862dd998ba288a97ffda44cb3797bc20d3eb5bc0a6cad",
+        "signature": "c6e3bad7e7eb479c2b3862dd998ba288a97ffda44cb3797bc20d3eb5bc0a6cad",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs/serve-static/dist/serve-static.constants.d.ts": {
+        "version": "b32ded887b679b39ffc83b0e8ff0c1f6722d7e847234a18b2c2158129c58aeb3",
+        "signature": "b32ded887b679b39ffc83b0e8ff0c1f6722d7e847234a18b2c2158129c58aeb3",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs/serve-static/dist/serve-static.module.d.ts": {
+        "version": "67b3ddf3a4ceddeeeb59a1c6d0003220a6d5d24a118a91046108e1d60b424e12",
+        "signature": "67b3ddf3a4ceddeeeb59a1c6d0003220a6d5d24a118a91046108e1d60b424e12",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs/serve-static/dist/serve-static.providers.d.ts": {
+        "version": "e5d2f32f61581a9e54404f1918c9a9f6911f89a6efd535bf3c4d41f3f84d8802",
+        "signature": "e5d2f32f61581a9e54404f1918c9a9f6911f89a6efd535bf3c4d41f3f84d8802",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs/serve-static/dist/index.d.ts": {
+        "version": "fea13cbc4da2a22aad4d71b15c73854a6a801fa8038293eb7f4783884ff5af70",
+        "signature": "fea13cbc4da2a22aad4d71b15c73854a6a801fa8038293eb7f4783884ff5af70",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs/serve-static/index.d.ts": {
+        "version": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
+        "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
+        "affectsGlobalScope": false
+      },
+      "./src/app.module.ts": {
+        "version": "846f28915cb5b941ef8cb87e7b3988391d2de3add29d61116be0327bfe0391b1",
+        "signature": "73d0b8a35c3b7bb7eb41a04ea9e462c37e09df63d4abc63ad3663b71ddfd29a9",
         "affectsGlobalScope": false
       },
       "./node_modules/@nestjs/swagger/dist/decorators/api-basic.decorator.d.ts": {
@@ -4960,6 +5010,51 @@
       ],
       "./node_modules/@nestjs/passport/index.d.ts": [
         "./node_modules/@nestjs/passport/dist/index.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/index.d.ts": [
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/express.loader.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/fastify.loader.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/noop.loader.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/serve-static.constants.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/serve-static.module.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/serve-static.providers.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts": [
+        "./node_modules/@nestjs/common/index.d.ts",
+        "./node_modules/@nestjs/common/interfaces/index.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts": [
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/loaders/express.loader.d.ts": [
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/loaders/fastify.loader.d.ts": [
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/loaders/noop.loader.d.ts": [
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/serve-static.module.d.ts": [
+        "./node_modules/@nestjs/common/index.d.ts",
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/serve-static.providers.d.ts": [
+        "./node_modules/@nestjs/common/index.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/index.d.ts": [
+        "./node_modules/@nestjs/serve-static/dist/index.d.ts"
       ],
       "./node_modules/@nestjs/swagger/dist/decorators/api-body.decorator.d.ts": [
         "./node_modules/@nestjs/common/index.d.ts",
@@ -7240,11 +7335,10 @@
       "./src/app.module.ts": [
         "./node_modules/@nestjs/common/index.d.ts",
         "./node_modules/@nestjs/config/index.d.ts",
+        "./node_modules/@nestjs/serve-static/index.d.ts",
         "./node_modules/@types/hapi__joi/index.d.ts",
-        "./src/app.controller.ts",
-        "./src/app.service.ts",
+        "./node_modules/@types/node/path.d.ts",
         "./src/auth/auth.module.ts",
-        "./src/auth/auth.service.ts",
         "./src/database/database.module.ts",
         "./src/middleware/auth.middleware.ts",
         "./src/users/Users.module.ts"
@@ -8073,6 +8167,51 @@
       ],
       "./node_modules/@nestjs/passport/index.d.ts": [
         "./node_modules/@nestjs/passport/dist/index.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/index.d.ts": [
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/express.loader.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/fastify.loader.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/noop.loader.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/serve-static.constants.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/serve-static.module.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/serve-static.providers.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts": [
+        "./node_modules/@nestjs/common/index.d.ts",
+        "./node_modules/@nestjs/common/interfaces/index.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts": [
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/loaders/express.loader.d.ts": [
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/loaders/fastify.loader.d.ts": [
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/loaders/noop.loader.d.ts": [
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/serve-static.module.d.ts": [
+        "./node_modules/@nestjs/common/index.d.ts",
+        "./node_modules/@nestjs/core/index.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+        "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/dist/serve-static.providers.d.ts": [
+        "./node_modules/@nestjs/common/index.d.ts"
+      ],
+      "./node_modules/@nestjs/serve-static/index.d.ts": [
+        "./node_modules/@nestjs/serve-static/dist/index.d.ts"
       ],
       "./node_modules/@nestjs/swagger/dist/decorators/api-body.decorator.d.ts": [
         "./node_modules/@nestjs/common/index.d.ts",
@@ -10609,6 +10748,16 @@
       "./node_modules/@nestjs/passport/dist/passport/passport.serializer.d.ts",
       "./node_modules/@nestjs/passport/dist/passport/passport.strategy.d.ts",
       "./node_modules/@nestjs/passport/index.d.ts",
+      "./node_modules/@nestjs/serve-static/dist/index.d.ts",
+      "./node_modules/@nestjs/serve-static/dist/interfaces/serve-static-options.interface.d.ts",
+      "./node_modules/@nestjs/serve-static/dist/loaders/abstract.loader.d.ts",
+      "./node_modules/@nestjs/serve-static/dist/loaders/express.loader.d.ts",
+      "./node_modules/@nestjs/serve-static/dist/loaders/fastify.loader.d.ts",
+      "./node_modules/@nestjs/serve-static/dist/loaders/noop.loader.d.ts",
+      "./node_modules/@nestjs/serve-static/dist/serve-static.constants.d.ts",
+      "./node_modules/@nestjs/serve-static/dist/serve-static.module.d.ts",
+      "./node_modules/@nestjs/serve-static/dist/serve-static.providers.d.ts",
+      "./node_modules/@nestjs/serve-static/index.d.ts",
       "./node_modules/@nestjs/swagger/dist/decorators/api-basic.decorator.d.ts",
       "./node_modules/@nestjs/swagger/dist/decorators/api-bearer.decorator.d.ts",
       "./node_modules/@nestjs/swagger/dist/decorators/api-body.decorator.d.ts",
